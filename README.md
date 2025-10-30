@@ -1,5 +1,5 @@
-# Hi, I’m @TheBlueBear2000 (George)
-I'm a Computer Science and Artificial Intelligence MComp student at The Sheffield School of Computer Science specialising in Python and Machine Learning.
+# Hi, I’m George
+I'm a Computer Science and Artificial Intelligence MComp student at The Sheffield School of Computer Science, specialising in Python and Machine Learning.
 
 I am profficient in:
 - Python
